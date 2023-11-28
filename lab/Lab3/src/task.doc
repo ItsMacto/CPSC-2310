@@ -1,0 +1,10 @@
+/*************************
+ *Mac Howe
+ *CPSC 2311 002
+ *pmhowe@clemnson.edu
+ *************************/
+
+
+I had to edit the driver.c file to include the new path to the function.h file
+because we put in in a folder.
+
